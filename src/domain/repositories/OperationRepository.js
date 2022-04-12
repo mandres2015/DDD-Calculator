@@ -19,4 +19,4 @@ class OperationRepository {
   }
 }
 
-module.exports.OperationRepository = OperationRepository
+module.exports.OperationRepository = OperationRepository;
